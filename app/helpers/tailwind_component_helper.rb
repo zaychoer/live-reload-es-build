@@ -1,0 +1,2 @@
+module TailwindComponentHelper
+end
